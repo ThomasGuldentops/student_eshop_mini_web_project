@@ -71,5 +71,5 @@ INSERT INTO groups VALUES("E12", "Groupe de gestion");
 INSERT INTO groups VALUES("E00", "Groupe de l'admin");
 
 INSERT INTO students VALUES(1,"Admin","Admin","root", "E00");
-INSERT INTO students VALUES(52818,"Thuy An","Nguyen","mdp", "E11");
+INSERT INTO students VALUES(0,"test","test","mdp", "E11");
 INSERT INTO students VALUES(52088,"Thomas","Guldentops","mdp", "E11");
